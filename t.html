@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You for Voting</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="v3.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-body text-center">
+                <h1 class="card-title">Thank You for Voting!</h1>
+                <p class="card-text">Your vote for <span id="votedCandidate"></span> has been successfully casted.</p>
+                <a href="l.html" class="btn btn-primary">logout</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<script>
+    // Retrieve vote parameter from URL query string
+    var urlParams = new URLSearchParams(window.location.search);
+    var votedCandidate = urlParams.get('vote');
+    
+    // Update the votedCandidate span with the selected candidate
+    document.getElementById('votedCandidate').textContent = votedCandidate;
+</script>
