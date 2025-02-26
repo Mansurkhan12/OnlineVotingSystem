@@ -22,7 +22,7 @@ Real-time Results:
 After voting, users can see the results update instantly, showing the number of votes each candidate received.
 Styling and Responsiveness:
 
-The website is designed with CSS to ensure it's responsive and looks great on all screen sizes.
+The website is designed with Js to ensure it's responsive and looks great on all screen sizes.
 How It Works:
 Registration and Login:
 
