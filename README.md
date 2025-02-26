@@ -1,10 +1,9 @@
 # OnlineVotingSystem
 Voting through online resources which are easily accessable and used to eradicate the location constraints.
-The Online Voting System project is a web-based platform that allows users to cast their votes electronically. It simplifies the voting process and ensures security and transparency. This project is developed using HTML, CSS, and JavaScript for frontend development.
+The Online Voting System project is a web-based platform that allows users to cast their votes electronically. It simplifies the voting process and ensures security and transparency. This project is developed using HTML and JavaScript for frontend development.
 
 # Technologies used
 HTML: Provides the structure and content for the voting page, including forms, buttons, and input fields.
-CSS: Responsible for styling the voting page, ensuring a clean and user-friendly interface.
 JavaScript: Implements the logic for handling user input, validating the votes, and managing voting actions without requiring page reloads.
 Key Features:
 User Authentication:
