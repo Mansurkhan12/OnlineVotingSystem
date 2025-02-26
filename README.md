@@ -2,7 +2,7 @@
 Voting through online resources which are easily accessable and used to eradicate the location constraints.
 The Online Voting System project is a web-based platform that allows users to cast their votes electronically. It simplifies the voting process and ensures security and transparency. This project is developed using HTML, CSS, and JavaScript for frontend development.
 
-<b> Technologies Used: </b>
+# Technologies used
 HTML: Provides the structure and content for the voting page, including forms, buttons, and input fields.
 CSS: Responsible for styling the voting page, ensuring a clean and user-friendly interface.
 JavaScript: Implements the logic for handling user input, validating the votes, and managing voting actions without requiring page reloads.
@@ -41,7 +41,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/Mansurkhan12/online-voting-system.git
+git clone https://github.com/Mansurkhan12/OnlineVotingSystem.git
 Navigate to the project directory:
 
 bash
@@ -49,5 +49,5 @@ Copy
 cd online-voting-system
 Open index.html in your browser to see the application in action.
 
-Contributing:
+# Contributing
 Feel free to fork this repository and contribute! If you encounter any issues or have suggestions for improvements, open an issue or submit a pull request.
