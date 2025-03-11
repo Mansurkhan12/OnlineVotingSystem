@@ -39,7 +39,7 @@ How to Run the Project Locally:
 Clone the repository:
 
 bash
-Copy
+#Copy
 git clone https://github.com/Mansurkhan12/OnlineVotingSystem.git
 Navigate to the project directory:
 
